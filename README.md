@@ -41,6 +41,6 @@ This 4K UltraGear monitor with a 240Hz refresh rate provides stunning visuals an
 This high-performance PC build was crafted for anyone seeking a reliable, powerful, and future-proof computer. Whether you’re looking to dominate in 4K gaming, manage demanding applications, or dive into creative projects, this setup delivers top-notch performance across the board. Let me know if you have any questions about this build, or if you’re planning your own high-end PC!
 
 
-[System Info]:       https://github.com/Dmitryjn/2023Build/blob/main/setup.jpg
-[Internals]:         https://github.com/Dmitryjn/2023Build/blob/main/insidepc.jpg
-[System][External]: https://github.com/Dmitryjn/2023Build/blob/main/outsidepc.jpg
+[System Info]: https://github.com/Dmitryjn/2023Build/blob/main/setup.jpg
+[Internals]:   https://github.com/Dmitryjn/2023Build/blob/main/insidepc.jpg
+[External]:    https://github.com/Dmitryjn/2023Build/blob/main/outsidepc.jpg
