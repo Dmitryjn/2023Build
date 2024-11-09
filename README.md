@@ -7,6 +7,8 @@ Excited to reveal my new high-performance PC build, designed for seamless multit
 
 ## 🔧 High-Performance PC Build Specs:
 
+![System Components][Internals]
+
 **Processor (CPU):** Intel Core i7-13700K 3.4 GHz 16-Core Processor
 The Intel i7-13700K provides 16 cores of power, perfect for gaming, streaming, and content creation.
 
@@ -34,7 +36,11 @@ The 750W Corsair RM750e ensures efficient power delivery with a fully modular de
 **Monitor:** LG UltraGear 32GS95UE-B 31.5" 4K 240Hz
 This 4K UltraGear monitor with a 240Hz refresh rate provides stunning visuals and smooth performance for gaming and content.
 
+![System][External]
+
 This high-performance PC build was crafted for anyone seeking a reliable, powerful, and future-proof computer. Whether you’re looking to dominate in 4K gaming, manage demanding applications, or dive into creative projects, this setup delivers top-notch performance across the board. Let me know if you have any questions about this build, or if you’re planning your own high-end PC!
 
 
-[System Info]: https://github.com/Dmitryjn/2023Build/blob/main/setup.jpg
+[System Info]:       https://github.com/Dmitryjn/2023Build/blob/main/setup.jpg
+[Internals]:         https://github.com/Dmitryjn/2023Build/blob/main/insidepc.jpg
+![System][External]: https://github.com/Dmitryjn/2023Build/blob/main/outsidepc.jpg
