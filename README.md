@@ -43,4 +43,4 @@ This high-performance PC build was crafted for anyone seeking a reliable, powerf
 
 [System Info]:       https://github.com/Dmitryjn/2023Build/blob/main/setup.jpg
 [Internals]:         https://github.com/Dmitryjn/2023Build/blob/main/insidepc.jpg
-![System][External]: https://github.com/Dmitryjn/2023Build/blob/main/outsidepc.jpg
+[System][External]: https://github.com/Dmitryjn/2023Build/blob/main/outsidepc.jpg
