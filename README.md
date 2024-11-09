@@ -2,7 +2,7 @@
 
 Excited to reveal my new high-performance PC build, designed for seamless multitasking, smooth gaming, and intensive content creation. Built with the latest components, this setup is ready to handle everything from 4K gaming to heavy-duty editing. Here are the full specs and details:
 
-##🔧 High-Performance PC Build Specs:
+## 🔧 High-Performance PC Build Specs:
 
 Processor (CPU): Intel Core i7-13700K 3.4 GHz 16-Core Processor
 The Intel i7-13700K provides 16 cores of power, perfect for gaming, streaming, and content creation.
